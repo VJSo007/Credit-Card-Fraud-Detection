@@ -6,7 +6,7 @@ Note: There are still aspects of this notebook which are subject to changes.
 
 
 Introduction
-In this notebook we will use various predictive models to see how accurate they are in detecting whether a transaction is a regualar payment or a fraud. The features are scaled and the names of the features are not shown due to data privacy. 
+In this notebook we will use various predictive models to see how accurate they are in detecting whether a transaction is a regular payment or a fraud. The features are scaled and the names of the features are not shown due to data privacy. 
 
 Our Goals:
 
