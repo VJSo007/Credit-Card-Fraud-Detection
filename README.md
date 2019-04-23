@@ -1,8 +1,6 @@
 # Credit-Card-Fraud-Detection
 
- Credit Fraud Detector
-
-Note: There are still aspects of this notebook which are subject to changes.
+Note: Kaggle Dataset
 
 
 Introduction
