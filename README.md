@@ -8,8 +8,6 @@ Note: There are still aspects of this notebook which are subject to changes.
 Introduction
 In this notebook we will use various predictive models to see how accurate they are in detecting whether a transaction is a regular payment or a fraud. The features are scaled and the names of the features are not shown due to data privacy. 
 
-Our Goals:
-
     1. Understand the distribution of the "little" data that was provided to us.
     2. Create a 50/50 sub-dataframe ratio of "Fraud" and "Non-Fraud" transactions.
     3. Determine the Classifiers we are going to use and decide which one has a higher accuracy.
